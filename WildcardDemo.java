@@ -1,4 +1,4 @@
-//Demo for bounded types
+//Demo for using wildcard
 
 class NumericFns<T extends Number> {
 	T num;
