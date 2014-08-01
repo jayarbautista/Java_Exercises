@@ -13,7 +13,7 @@ class CastDemo {
 		i = (int)(x / y); //cast double to int
 		System.out.println("Integer outcome of x / y: " + i);
 		
-		i = 100;
+		i = 500;
 		b = (byte) i;
 		System.out.println("Value of b: " + b);
 		
